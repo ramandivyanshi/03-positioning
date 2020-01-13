@@ -1,0 +1,327 @@
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+body{
+    padding:40px;
+}
+h1{font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 20px;
+}
+.section1{padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+.heading2{font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.section2{padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+
+.one{width:90%;
+    float:right;
+    padding-bottom: 20px; 
+}
+.heading3{font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.section3{
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+.two{width:90%;
+    float:left;
+    padding-bottom: 20px;
+}
+.heading4{font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.section4{
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+.three{width:82%;
+    float:right;
+    padding-bottom: 20px;
+}
+.heading5{font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+.section5{
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+.four{width:82%;
+    float:left;
+    padding-bottom: 20px;
+}
+.heading6{font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.section6{padding-top: 10px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+.sec6{padding:4px;
+    padding-bottom: 20px;
+    width:96%;
+    height:128px;
+    background-color: red;
+}
+.box1{
+    height:104px;
+    background-color: peachpuff;
+    border:20px solid darkorange;
+}
+.heading7{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.pic{
+    padding-left: 20px;
+}
+.section7{padding-top: 10px;
+    padding-bottom: 70px;
+    border-bottom: 1px solid black;
+}
+.box2{background-color: darkorange;
+    height:50px;
+    border:3px solid red;
+    width:96%;
+}
+.heading8{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.section8{padding-top: 10px;
+    padding-bottom:20px;
+    border-bottom: 1px solid black;
+}
+.box3{background-color: darkorange;
+    height:50px;
+    border:3px solid red;
+    width:96%;
+}
+.b3{width:97%;
+    height:70px;
+    background-color: turquoise;
+    margin-left:20px;
+    margin-top: 20px;
+}
+.b31{height:70px;
+    width:93%;
+    background-color: turquoise;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left:23px;
+}
+.b32{height:70px;
+    width:93%;
+    background-color: turquoise;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left:23px;
+}
+.b33{height:70px;
+    width:93%;
+    background-color: turquoise;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left:23px;
+}
+.heading9{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.section9{padding-top: 10px;
+    padding-bottom:200px;
+    border-bottom: 1px solid black;
+}
+.line1{background-color: darkorange;
+    height:50px;
+    border:3px solid red;
+    width:96%;
+}
+section{ width:113px;
+    height:100px;
+    float: left;
+}
+.sqr1{background-color: turquoise;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr2{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr3{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr4{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr5{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr6{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr7{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr8{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr9{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr10{background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.sqr11{
+    background-color: turquoise;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+}
+.heading10{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.section10{padding-top: 10px;
+    padding-bottom:30px;
+    border-bottom: 1px solid black;
+}
+.line2{background-color: darkorange;
+    height:50px;
+    border:3px solid red;
+    width:96%;
+}
+.sqr{ width:113px;
+    height:100px;
+    background-color: turquoise;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 177px;
+}
+.heading11{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.border{width:100%;
+    background-color: red;
+}
+.section11{margin: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 10px;
+}
+.line3{background-color: lightpink;
+    height:230px;
+    border:20px solid darkorange;
+    width:98%;
+}
+.para{padding-bottom: 20px;
+    border-bottom: 1px solid black;
+}
+.heading12{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-top: 20px;
+}
+.border{width:100%;
+    background-color: red;
+}
+.section12{margin: 10px;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-right: 10px;
+}
+.line4{background-color: lightpink;
+    height:230px;
+    border:20px solid darkorange;
+    width:98%;
+}
+
+
+
+
+
+
+
+
+
+
